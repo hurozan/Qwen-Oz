@@ -1,0 +1,97 @@
+IP727020-AA                                           MASTERCARD NSPK                                            RUN DATE: 01/30/26
+ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 001 - NOTIFICATION                                 PAGE NO:         2
+BUSINESS SERVICE LEVEL: INTRACOUNTRY                         2026-01-30
+BUSINESS SERVICE ID: 643001
+FILE ID: 021/260130/00000009176/01101
+MEMBER ID: 00000011682
+
+CENTRAL BANK SETTLED                                                   RECON                         FEE
+                                                                        CURR                         CURR
+TRANS. FUNC. PROC. CODE      IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE
+------------ --------------- --- -------- -------------------------- ------- ----------------------- -------
+FIRST PRES.  PAYMENT TX ORIG MS        15               29,292.00 CR 643-RUB                 0.00 DR    -   
+------------ --------------- --- -------- -------------------------- ------- ----------------------- -------
+FIRST PRES.  TOTAL                     15               29,292.00 CR 643-RUB                 0.00 DR    -   
+
+INTRACOUNTRY
+CENTRAL BANK SETTLED
+BUSINESS SERVICE ID SUBTOTAL           15               29,292.00 CR 643-RUB                 0.00 DR    -   
+IP727020-AA                                           MASTERCARD NSPK                                            RUN DATE: 01/30/26
+                                               CLEARING CYCLE 001 - NOTIFICATION                                 PAGE NO:         3
+                                                             2026-01-30
+ACCEPTANCE BRAND: MCC
+BUSINESS SERVICE LEVEL: INTRACOUNTRY
+MEMBER ID: 00000011682
+CURRENCY CODE : 643-RUB
+
+BUSINESS
+SERVICE                               ORIG/
+    ID            FILE ID             RVSL          RECON. AMOUNT                   TRANSACTION FEE
+-------- ---------------------------- ----        -------------------              -------------------
+643001   021/260130/00000009176/01101 ORIG                29,292.00 CR                         0.00 DR
+
+                            GRAND TOTAL                   29,292.00 CR                         0.00 DR
+
+IP727020-AA                                           MASTERCARD NSPK                                            RUN DATE: 01/30/26
+ACCEPTANCE BRAND: MCC                          CLEARING CYCLE 001 - NOTIFICATION                                 PAGE NO:        13
+BUSINESS SERVICE LEVEL: INTRACOUNTRY                         2026-01-30
+BUSINESS SERVICE ID: 643001
+FILE ID: 021/260130/00000009176/01101
+MEMBER ID: 00000009176
+
+CENTRAL BANK SETTLED                                                   RECON                         FEE
+                                                                        CURR                         CURR
+TRANS. FUNC. PROC. CODE      IRD   COUNTS               RECON AMOUNT    CODE       TRANS FEE         CODE
+------------ --------------- --- -------- -------------------------- ------- ----------------------- -------
+FIRST PRES.  ATM CASH   ORIG 56        48              760,908.75 DR 643-RUB             3,408.75 DR 643-RUB
+             CREDIT     ORIG 24         2               24,954.47 CR 643-RUB                 7.00 DR 643-RUB
+             CREDIT     ORIG 75        69            1,182,481.85 CR 643-RUB               210.65 DR 643-RUB
+             CREDIT     ORIG 79         8              103,150.30 CR 643-RUB                28.00 DR 643-RUB
+             CREDIT     ORIG 85        10               51,467.49 CR 643-RUB               247.82 DR 643-RUB
+             CREDIT     ORIG L1         8               93,210.52 CR 643-RUB                28.00 DR 643-RUB
+             PAYMENT TX ORIG MS       256            1,612,772.34 CR 643-RUB                 0.00 DR    -   
+             PAYMENT TX ORIG Q2         9              111,050.00 CR 643-RUB                 0.00 DR    -   
+             PAYMENT TX ORIG Q5         1                9,000.00 CR 643-RUB                 0.00 DR    -   
+             PURCHASE   ORIG 75      1464            2,145,229.37 DR 643-RUB            27,151.74 CR 643-RUB
+             PURCHASE   ORIG 79       770            4,699,918.25 DR 643-RUB            74,366.10 CR 643-RUB
+             PURCHASE   ORIG 85       624            1,403,351.50 DR 643-RUB            18,872.10 CR 643-RUB
+             PURCHASE   ORIG GU        12               40,076.56 DR 643-RUB                 0.00 DR    -   
+             PURCHASE   ORIG L1      2877            9,246,517.99 DR 643-RUB           154,095.39 CR 643-RUB
+             PURCHASE   ORIG L5      1443              455,925.24 DR 643-RUB             2,293.27 CR 643-RUB
+             PURCHASE   ORIG L8        41               31,972.62 DR 643-RUB               307.16 CR 643-RUB
+             PURCHASE   ORIG MS        43            1,574,066.88 DR 643-RUB             2,838.40 CR 643-RUB
+             PURCHASE   ORIG P2     11487            7,411,346.60 DR 643-RUB            84,160.65 CR 643-RUB
+             PURCHASE   ORIG TP         8               20,020.77 DR 643-RUB               202.23 CR 643-RUB
+             PURCHASE   RVSL 75         1               12,999.77 CR 643-RUB               299.23 DR 643-RUB
+             PURCHASE   RVSL 79         8                3,930.07 CR 643-RUB                58.93 DR 643-RUB
+             PURCHASE   RVSL 85        60              341,573.24 CR 643-RUB             4,809.95 DR 643-RUB
+             PURCHASE   RVSL L1         3                  454.78 CR 643-RUB                 5.11 DR 643-RUB
+             PURCHASE   RVSL P2         2                  316.79 CR 643-RUB                 3.66 DR 643-RUB
+             UNIQUE TXN ORIG 75         7               12,264.15 DR 643-RUB               282.29 CR 643-RUB
+             UNIQUE TXN ORIG 79        88              234,224.82 DR 643-RUB             3,061.29 CR 643-RUB
+             UNIQUE TXN ORIG 85         1                   97.75 DR 643-RUB                 2.25 CR 643-RUB
+             UNIQUE TXN ORIG L1         4               11,258.50 DR 643-RUB               241.50 CR 643-RUB
+             UNIQUE TXN ORIG P2         1                  489.50 DR 643-RUB                10.50 CR 643-RUB
+             UNIQUE TXN RVSL 79         1                    0.98 CR 643-RUB                 0.02 DR 643-RUB
+------------ --------------- --- -------- -------------------------- ------- ----------------------- -------
+FIRST PRES.  TOTAL                  19356           24,500,306.65 DR 643-RUB           358,777.75 CR 643-RUB
+
+INTRACOUNTRY
+CENTRAL BANK SETTLED
+BUSINESS SERVICE ID SUBTOTAL        19356           24,500,306.65 DR 643-RUB           358,777.75 CR 643-RUB
+IP727020-AA                                           MASTERCARD NSPK                                            RUN DATE: 01/30/26
+                                               CLEARING CYCLE 001 - NOTIFICATION                                 PAGE NO:        14
+                                                             2026-01-30
+ACCEPTANCE BRAND: MCC
+BUSINESS SERVICE LEVEL: INTRACOUNTRY
+MEMBER ID: 00000009176
+CURRENCY CODE : 643-RUB
+
+BUSINESS
+SERVICE                               ORIG/
+    ID            FILE ID             RVSL          RECON. AMOUNT                   TRANSACTION FEE
+-------- ---------------------------- ----        -------------------              -------------------
+643001   021/260130/00000009176/01101 ORIG            24,859,582.28 DR                   363,954.65 CR
+643001   021/260130/00000009176/01101 RVSL               359,275.63 CR                     5,176.90 DR
+
+                            GRAND TOTAL               24,500,306.65 DR                   358,777.75 CR

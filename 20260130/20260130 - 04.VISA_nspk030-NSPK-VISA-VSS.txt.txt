@@ -1,0 +1,39 @@
+ISSUER TRANSACTIONS                                                                                                                 
+                                                                                                                                     
+                                                                                                                                     
+   PURCHASE                                                                                                                          
+                                                                                                                                     
+     ORIGINAL SALE                                             113           116,638.42DB                                116,638.42  
+                                                                                                                                     
+     ORIGINAL SALE        RVRSL                                  1                 1.00CR                 1.00                       
+                                                                                                                                     
+   TOTAL PURCHASE                                              114           116,637.42DB                 1.00           116,638.42  
+   NET   PURCHASE                                                                                                        116,637.42  
+                                                                                                                                     
+                                                                                                                                     
+   QUASI-CASH                                                                                                                        
+                                                                                                                                     
+     ORIGINAL SALE                                               1             5,000.00DB                                  5,000.00  
+                                                                                                                                     
+   TOTAL QUASI-CASH                                              1             5,000.00DB                                  5,000.00  
+   NET   QUASI-CASH                                                                                                        5,000.00  
+                                                                                                                                     
+                                                                                                                                     
+   ATM CASH                                                                                                                          
+                                                                                                                                     
+     ORIGINAL WITHDRAWAL                                         3            55,700.00DB                                 55,700.00  
+                                                                                                                                     
+   TOTAL ATM CASH                                                3            55,700.00DB                                 55,700.00  
+   NET   ATM CASH                                                                                                         55,700.00  
+                                                                                                                                     
+                                                                                                                                     
+   ORIGINAL CREDIT                                                                                                                   
+                                                                                                                                     
+     ORIGINAL                                                    6            19,650.00CR            19,650.00                       
+                                                                                                                                     
+   TOTAL ORIGINAL CREDIT                                         6            19,650.00CR            19,650.00                       
+   NET   ORIGINAL CREDIT                                                                             19,650.00                       
+                                                                                                                                     
+                                                                                                                                     
+ TOTAL  ISSUER INTERCHANGE                                     124           157,687.42DB            19,651.00           177,338.42  
+ NET    ISSUER INTERCHANGE                                                                                               157,687.42                                                                                          

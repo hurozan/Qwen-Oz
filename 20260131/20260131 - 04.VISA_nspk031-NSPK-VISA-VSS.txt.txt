@@ -1,0 +1,37 @@
+ ISSUER TRANSACTIONS                                                                                                                 
+                                                                                                                                     
+                                                                                                                                     
+   PURCHASE                                                                                                                          
+                                                                                                                                     
+     ORIGINAL SALE                                             105            87,702.14DB                                 87,702.14  
+                                                                                                                                     
+   TOTAL PURCHASE                                              105            87,702.14DB                                 87,702.14  
+   NET   PURCHASE                                                                                                         87,702.14  
+                                                                                                                                     
+                                                                                                                                     
+   MERCHANDISE CREDIT                                                                                                                
+                                                                                                                                     
+     ORIGINAL                                                    1               200.00CR               200.00                       
+                                                                                                                                     
+   TOTAL MERCHANDISE CREDIT                                      1               200.00CR               200.00                       
+   NET   MERCHANDISE CREDIT                                                                             200.00                       
+                                                                                                                                     
+                                                                                                                                     
+   ATM CASH                                                                                                                          
+                                                                                                                                     
+     ORIGINAL WITHDRAWAL                                         5           129,800.00DB                                129,800.00  
+                                                                                                                                     
+   TOTAL ATM CASH                                                5           129,800.00DB                                129,800.00  
+   NET   ATM CASH                                                                                                        129,800.00  
+                                                                                                                                     
+                                                                                                                                     
+   ORIGINAL CREDIT                                                                                                                   
+                                                                                                                                     
+     ORIGINAL                                                   12            35,160.00CR            35,160.00                       
+                                                                                                                                     
+   TOTAL ORIGINAL CREDIT                                        12            35,160.00CR            35,160.00                       
+   NET   ORIGINAL CREDIT                                                                             35,160.00                       
+                                                                                                                                     
+                                                                                                                                     
+ TOTAL  ISSUER INTERCHANGE                                     123           182,142.14DB            35,360.00           217,502.14  
+ NET    ISSUER INTERCHANGE                                                                                               182,142.14                                                                                            
